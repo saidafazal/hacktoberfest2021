@@ -1,4 +1,4 @@
-# A Program for multiplication of two matrices of any order
+## A Program for multiplication of two matrices of any order
 
 # Let first matrix is a 3x4 matrix
 A = [[10,4,6,12],

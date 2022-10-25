@@ -1,4 +1,4 @@
-# Program to add two matrices using nested loop
+## Program to add two matrices using nested loop
 #first matrice
 X = [[12,7,3],
     [4 ,5,6],
